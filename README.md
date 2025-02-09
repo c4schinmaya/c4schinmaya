@@ -1,5 +1,5 @@
 <div>
-<img  height="459" width="800" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding">
+<img  height="430" width="750" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chinmaya+Sahoo" alt="Typing SVG" /></a>
 </div>
 
